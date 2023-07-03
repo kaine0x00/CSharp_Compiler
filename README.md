@@ -7,8 +7,8 @@ Because of the way the .NET framework works, **you may need to change the versio
 >**Dependency!** You *must have installed the mono command* for the script to work, you may do this with: `sudo apt install mono-complete`
 To use, simply open a terminal where you saved the script and then:
 ```
-chmod +x COMPILER_C#.sh
-./COMPILER_C#.sh
+chmod +x COMPILER_C\#.sh
+./COMPILER_C\#.sh
 ```
 ## Usage Windows
 To use, simply open a terminal in the folder you've saved the .BAT file and write `COMPILER_C#.bat` *or double click the file* and it will automatically open a terminal for you
